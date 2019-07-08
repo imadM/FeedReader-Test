@@ -3,7 +3,7 @@ Feed Reader Testing
 
 * [Description](#description)
 * [Run the Application](#run-the-application)
-* [Development Strategy] (#Development-Strategy)
+* [Development Strategy](#Development-Strategy)
 * [Code Dependencies](#code-dependencies)
 
 # Description
